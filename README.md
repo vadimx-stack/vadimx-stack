@@ -1,11 +1,11 @@
 <div align="center">
   <a href="https://github.com/vadimx-stack">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=CodeDestroyer&fontSize=80&fontColor=fff&animation=twinkling&desc=Full-Stack%20Dev%20|%20Code%20Wizard%20🧙‍♂️&descSize=20&descAlignY=60" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=CodeDestroyer&fontSize=80&fontColor=fff&animation=twinkling&desc=Full-Stack%20Dev%20|%20Code%20Wizard%20🧙‍♂️&descSize=20&descAlignY=75" width="100%"/>
   </a>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=26&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Разрушаю+код%2C+чтобы+создать+шедевры;Люблю+сложные+задачи+и+кофе;Фулл-стек+с+душой+художника" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=26&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Разрушаю+код%2C+чтобы+создать+шедевры;Люблю+сложные+задачи+и+кофе;Фулл-стек+с+душой+художника" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -112,21 +112,6 @@
     </pre>
   </div>
 </details>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="20" width="100%">
-</div>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30" alt="Activity Icon">
-  Моя активность
-</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vadimx-stack&theme=dracula&bg_color=1A1B27&color=FF6B6B&line=FFC107&point=FF6B6B&area=true&area_color=FF6B6B30&hide_border=true" width="100%"/>
-</div>
 
 <br>
 
