@@ -1,8 +1,12 @@
 <div align="center">
   <a href="https://github.com/vadimx-stack">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180§ion=header&text=CodeDestroyer&fontSize=90&fontColor=58A6FF&animation=fadeIn&desc=Тёмный%20Архитектор%20Кода%20|%20Повелитель%20Цифрового%20Хаоса%20🖤&descSize=24&descAlignY=75" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180§ion=header&text=CodeDestroyer&fontSize=90&fontColor=58A6FF&animation=fadeIn&desc=Просто%20разработчик&descSize=24&descAlignY=75" width="100%"/>
   </a>
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Из+тьмы+создаю+цифровые+миры;Код+—+моё+оружие+и+искусство;Живу+в+терминале,+дышу+кофеином" alt="Typing SVG" />
+</p>
 
 <div align="center">
   <a href="https://discord.gg/Bv2JvUsKEw" target="_blank">
