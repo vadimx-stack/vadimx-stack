@@ -4,10 +4,6 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Из+тьмы+создаю+цифровые+миры;Код+—+моё+оружие+и+искусство;Живу+в+терминале,+дышу+кофеином" alt="Typing SVG" />
-</p>
-
 <div align="center">
   <a href="https://discord.gg/Bv2JvUsKEw" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=0D1117&color=58A6FF" alt="Discord"/>
