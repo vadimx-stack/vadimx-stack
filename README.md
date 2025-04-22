@@ -27,7 +27,7 @@
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="30" alt="Tech Icon"> 
-  Арсенал тьмы
+  Арсенал
 </h2>
 
 <div align="center">
@@ -95,7 +95,7 @@
           }
 
           whisper() {
-            return "Присоединяйся к цифровой тьме... если осмелишься";
+            return "Присоединяйся к нам... если осмелишься";
           }
         }
 
